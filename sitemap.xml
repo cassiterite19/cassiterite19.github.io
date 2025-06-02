@@ -2,38 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cassiterite19.github.io/posts/firstpost/</loc>
-    <lastmod>2021-03-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/posts/secondpost/</loc>
-    <lastmod>2021-03-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2021-03-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/posts/placeholder-text/</loc>
-    <lastmod>2021-03-19</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/posts/another-placeholder-post/</loc>
-    <lastmod>2021-03-20</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/posts/sixthpost/</loc>
-    <lastmod>2021-03-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/posts/markdown-syntax-two/</loc>
-    <lastmod>2021-03-24</lastmod>
+    <loc>https://cassiterite19.github.io/posts/github-website/</loc>
+    <lastmod>2025-06-01</lastmod>
   </url>
   
   <url>
@@ -47,52 +17,22 @@
   </url>
   
   <url>
-    <loc>https://cassiterite19.github.io/tags/markdown/</loc>
+    <loc>https://cassiterite19.github.io/tags/meta/</loc>
     <lastmod>2025-06-01</lastmod>
   </url>
   
   <url>
-    <loc>https://cassiterite19.github.io/tags/text/</loc>
+    <loc>https://cassiterite19.github.io/tags/website/</loc>
     <lastmod>2025-06-01</lastmod>
   </url>
   
   <url>
-    <loc>https://cassiterite19.github.io/tags/another/</loc>
+    <loc>https://cassiterite19.github.io/tags/11ty/</loc>
     <lastmod>2025-06-01</lastmod>
   </url>
   
   <url>
-    <loc>https://cassiterite19.github.io/tags/css/</loc>
-    <lastmod>2025-06-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/tags/html/</loc>
-    <lastmod>2025-06-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/tags/hello/</loc>
-    <lastmod>2025-06-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/tags/nice/</loc>
-    <lastmod>2025-06-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/tags/second/</loc>
-    <lastmod>2025-06-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/tags/wow/</loc>
-    <lastmod>2025-06-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cassiterite19.github.io/tags/another-tag/</loc>
+    <loc>https://cassiterite19.github.io/tags/github/</loc>
     <lastmod>2025-06-01</lastmod>
   </url>
   
