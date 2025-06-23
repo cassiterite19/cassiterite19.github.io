@@ -37,7 +37,22 @@
   </url>
   
   <url>
+    <loc>https://cassiterite19.github.io/tags/main-site/</loc>
+    <lastmod>2025-06-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cassiterite19.github.io/tags/writing/</loc>
+    <lastmod>2025-06-01</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cassiterite19.github.io/tags/</loc>
     <lastmod>2025-06-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cassiterite19.github.io/posts/06-23-updates/</loc>
+    <lastmod>2025-06-23</lastmod>
   </url>
 </urlset>

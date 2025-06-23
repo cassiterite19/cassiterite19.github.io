@@ -5,12 +5,24 @@
 	
 	<link href="/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-06-02T02:22:48Z</updated>
+	<updated>2025-06-23T19:09:45Z</updated>
 	<id>https://cassiterite19.github.io</id>
 	<author>
 		<name>John Doe</name>
 		<email>johndoe@example.com</email>
 	</author>
+	
+	<entry>
+		<title>06/23 Updates</title>
+		<link href="/posts/06-23-updates/"/>
+		<updated>2025-06-23T00:00:00Z</updated>
+		<id>/posts/06-23-updates/</id>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;I&#39;ve made a lot of updates lately to my &lt;a href=&quot;https://cass-iter-ite.com/about/recentlyread.php&quot;&gt;Recently Read page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;I&#39;ve also added stories written by me about &lt;a href=&quot;https://cass-iter-ite.com/writing/characters/david.php&quot;&gt;my character David&lt;/a&gt; to &lt;a href=&quot;https://cass-iter-ite.com/writing/stories/&quot;&gt;the stories section&lt;/a&gt;. (Each of them also have links to where you can find them on AO3 if you&#39;d like to leave kudos or comments.)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Github Website</title>
